@@ -1,0 +1,72 @@
+
+================== Employee Statistics =================
+Total employees: 51
+
+1. Gender Percentage:
+ Male:26 (51.0%)
+ Female:25 (49.0%)
+
+2a. Highest monthly salary :
+ID      Name                Job Title                   Gender  Salary
+ ----------------------------------------------------------------------
+EMP014  Ethan Clark         Legal Counsel               Male    12500   
+
+2b. Lowest monthly salary :
+ID      Name                Job Title                   Gender  Salary
+ ----------------------------------------------------------------------
+EMP051  Siow Nin Fung       Cybersecurity               Male    60      
+
+3a. Top 3 salaries :
+ID      Name                Job Title                   Gender  Salary
+ ----------------------------------------------------------------------
+EMP014  Ethan Clark         Legal Counsel               Male    12500   
+EMP030  Sebastian Lim       Solutions Architect         Male    12000   
+EMP044  Ryan Rogers         Risk Manager                Male    11800   
+
+3b. Bottom 3 salaries :
+ID      Name                Job Title                   Gender  Salary
+ ----------------------------------------------------------------------
+EMP051  Siow Nin Fung       Cybersecurity               Male    60      
+EMP040  Gabriel Collins     Support Specialist          Male    5200    
+EMP009  Sofia Garcia        Customer Success Manager    Female  5500    
+
+4. Number and Percentage of Employees in each Department:
+Department          Count     Percentage
+----------------------------------------
+Engineering         9           17.6%
+Product             1           2.0%
+Design              4           7.8%
+Analytics           3           5.9%
+Human Resources     3           5.9%
+Finance             4           7.8%
+Marketing           7           13.7%
+Support             2           3.9%
+Sales               3           5.9%
+Legal               2           3.9%
+Administration      3           5.9%
+IT                  5           9.8%
+R&D                 2           3.9%
+Operations          2           3.9%
+IT department       1           2.0%
+
+ 5. Number and Percentage of Employees who joined after 1st Jan 2022:
+19 (37.3%)
+
+6. Histogram (each * = 1 employee)
+
+6a. Monthly Salary :
+Below 5000         | * (1)
+5000 - 7500        | *************************** (27)
+7501 - 9500        | ************** (14)
+9501 - 10000       | ** (2)
+Above 10000        | ******* (7)
+
+6b. Gender
+Male               | ************************** (26)
+Female             | ************************* (25)
+
+6c. Age :
+Below 20           |  (0)
+20 - 30            | ****************** (18)
+31 - 40            | ************************* (25)
+Above 40           | ******** (8)
